@@ -5,7 +5,7 @@ function App() {
     return (
         <div>
           <h1 style={{'text-align':'center'}}>Hello My name is Ryan Sulier this is my 2nd Web app in AWS./h1>    
-            <h2 style={{'text-align':'center'}}>If you like it send me a text 650-743-1490./h2>   
+          <h1 style={{'text-align':'center'}}>If you like it send me a text 650-743-1490./h1>   
            <storage/>
        </div>
     );
