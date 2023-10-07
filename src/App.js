@@ -3,7 +3,10 @@ import './App.css';
  
 function App() {
     return (
-        <h1> Hello My name is  Ryan Sulier this is my 2nd Web APP in AWS. </h1>
+        <div>
+          <h1 style={{'text-align':'center'}}>Hello again </h1>        
+           <storage/>
+       </div>
     );
 }
  
