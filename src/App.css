@@ -25,13 +25,12 @@
 }
 .bg {
   background-image: url(./Images/glacier.JPG);
-  width:fit-content;
-  height: fit-content;
+  width:max-content;
+  height: max-content;
 }
 .App-link {
   color: #61dafb;
 }
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
