@@ -25,8 +25,8 @@
 }
 .bg {
   background-image: url(./Images/glacier.JPG);
-  width:auto;
-  height: auto;
+  width:300px;
+  height: 200px;
   background-size:auto;
 }
 .App-link {
