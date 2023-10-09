@@ -11,7 +11,7 @@ function App() {
           <h2>Welcome to React</h2>        
           <h1 style={{'text-align':'center'}}>Hello My name is Ryan Sulier this is my 2nd Web app in AWS.</h1> 
           <p style={{'text-align':'center'}}>If you like this send me a text at 650-743-1490</p>
-          <div className="bg"></div>
+          <div style={{backgroundimage:<div className="bg"></div>}}></div>
            <storage/>
        </div>
     );
