@@ -25,9 +25,9 @@
 }
 .bg {
   background-image: url(./Images/glacier.JPG);
-  width:1000px;
+  width:2000px;
   height: 1000px;
-  background-size: cover;
+  background-size:auto;
 }
 .App-link {
   color: #61dafb;
