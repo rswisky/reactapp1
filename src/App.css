@@ -29,6 +29,7 @@
   height: 100vh;
   background-size:contain;
   background-repeat: no-repeat;
+  background-position: center;
 }
 .App-link {
   color: #61dafb;
